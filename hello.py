@@ -1,2 +1,2 @@
 # hello.py
-print("Hello, Welt!")
+print("Hallo, Welt!")
