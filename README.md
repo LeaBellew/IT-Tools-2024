@@ -15,7 +15,7 @@ Dies ist ein **Beispiel** für eine Markdown-Datei. Markdown ist eine _einfache_
 - [ ] Aufgabe 2 nicht erledigt
 - [ ] Aufgabe 3 nicht erledigt
 
-## Abschnitt 2: Codebeispiel
+## Abschnitt 2: Codebeispiele
 
 Hier ist ein Beispiel für einen Python-Codeblock:
 
